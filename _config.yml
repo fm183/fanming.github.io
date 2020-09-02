@@ -1,7 +1,7 @@
 # Blog info
-blog_name: Forsigner
+blog_name: Fanming Blog
 slogan: Find the bug of the world
-url: http://www.forsigner.com
+url: https://fm183.github.io
 
 # Set avatar (Absolute url and relative url)
 avatar: /images/avatar.jpg
@@ -10,7 +10,7 @@ avatar: /images/avatar.jpg
 favicon: /favicon.ico
 
 # For seo
-keywords: forsigner,前端,设计,Hexo主题,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
+keywords: fanming,android,设计,移动端开发,java
 
 home_nav:
   - name: Blog
@@ -201,46 +201,14 @@ about:
     icon: icon-github
     text_key: Github
     text_value: "@forsigner"
-    text_value_url: https://github.com/forsigner
-  - type: weibo
-    icon: icon-weibo
-    text_key: 微博
-    text_value: "@forsigner"
-    text_value_url: http://weibo.com/u/1847075964
+    text_value_url: https://github.com/fm183
   - type: mail
     icon: icon-mail
     text_key: Gmail
-    text_value: "forsigner@gmail.com"
+    text_value: "fanming1995@gmail.com"
   - type: location
     icon: icon-location
     text_value: 珠海
-
-link:
-  - name: 织网
-    info: 身体和灵魂，总有一个在路上
-    url: http://zheng-ji.info/
-    avatar: https://avatars3.githubusercontent.com/u/1414745?v=3&s=100
-  - name: Dongyado
-    info: 生命不止，折腾不息
-    url: http://dongyado.com/
-    avatar: https://avatars0.githubusercontent.com/u/6274940?v=3&s=100
-  - name: OrangeCoder
-    info: android ffmpeg nodejs gradle
-    url: http://orangecoder.com/
-    avatar: https://avatars0.githubusercontent.com/u/2263785?v=3&s=100
-  - name: EverET
-    info: 好记性不如烂笔头
-    url: http://everet.org/about-me/
-    avatar: https://avatars1.githubusercontent.com/u/1559563?v=3&s=100
-  - name: 题叶
-    info: FP, GUI, Writing
-    url: http://tiye.me/
-    avatar: https://avatars2.githubusercontent.com/u/449224?v=3&s=100
-  - name: McChen
-    info: Stay Hungry, Stay Foolish
-    url: https://chenjiahao.xyz
-    avatar: https://avatars0.githubusercontent.com/u/8033333?v=3&s=100
-
 
 project:
   - type: personal
