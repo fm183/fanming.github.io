@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # The Site Settings
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
@@ -201,6 +201,4 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - sitemap.xml
     - robots.txt
     - redirects.json
-=======
-theme: jekyll-theme-cayman
->>>>>>> a676eb8756dbd2ce139e59799986f25853329757
+  theme: jekyll-theme-cayman
